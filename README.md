@@ -9,9 +9,6 @@ Este projeto realiza uma análise de série temporal do preço do petróleo Bren
 
 O projeto inclui uma aplicação web interativa construída com Streamlit. Para visualizar a análise e as previsões, execute a aplicação localmente.
 
-*(Se você hospedar a aplicação, pode adicionar o link aqui)*
-**Link da Aplicação:** `(insira o link aqui, se houver)`
-
 ## 🎯 Modelos Utilizados
 
 Foram treinados e avaliados dois modelos distintos para a previsão dos preços:
